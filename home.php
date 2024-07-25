@@ -1,3 +1,8 @@
-<?php 
-echo "in home";
-?>
+<html>
+<head>
+</head>
+<body>
+    Hello World!
+</body>
+
+</html>
