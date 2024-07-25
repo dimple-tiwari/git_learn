@@ -1,5 +1,6 @@
 <html>
 <head>
+<link rel="stylesheet" href="../styles/carousel.css"/>
 </head>
 <body>
     Hello World!
